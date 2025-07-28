@@ -30,3 +30,8 @@ Color Survival Game is a dynamic and fast-paced survival game where players elim
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/BahadirSevindi/ColorSurvivalGame.git
+### In-Game Screenshots
+<img width="1100" height="506" alt="StartScene" src="https://github.com/user-attachments/assets/fcd42ea6-9d40-40fe-b24a-59545f9f5115" />
+<img width="1101" height="508" alt="SampleScene1" src="https://github.com/user-attachments/assets/76fb9401-2014-4a7b-a2fd-c6c0104e31e4" />
+<img width="1104" height="507" alt="SampleScene2" src="https://github.com/user-attachments/assets/d0b37c14-a15b-40ea-a194-b2861f9d869d" />
+<img width="1101" height="507" alt="EndGameScreen" src="https://github.com/user-attachments/assets/786662f5-9d39-457f-bb2d-b66cc5caed21" />
